@@ -1,0 +1,1 @@
+this is the directory where you put your tf-credentials.json service account with the project editor role
